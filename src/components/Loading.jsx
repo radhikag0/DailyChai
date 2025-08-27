@@ -1,5 +1,5 @@
 import React from 'react'
-
+import Layout from '../pages/Layout'
 const Loading = ({height = '100vh'}) => {
   return (
     <div style ={{height}} className='flex items-center justify-center h-screen'>
